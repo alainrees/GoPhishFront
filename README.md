@@ -1,0 +1,2 @@
+# GoPhishFront
+Frontend for GoPhish

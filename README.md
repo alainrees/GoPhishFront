@@ -1,7 +1,7 @@
 # GoPhishFront
 Frontend for GoPhish
 
-This frontend was a student project (juli 2019) It's a working product, but due to lack of time some feutures were not finished. Please feel free to finish what was started.
+This frontend was a student project (juli 2019) It's a working product, but due to lack of time some features were not finished. Please feel free to finish what was started.
 
 System Requirements:
   CentOS 7
